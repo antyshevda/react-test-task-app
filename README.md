@@ -1,4 +1,4 @@
-## Тестовое задание
+## Тестовое задание react react-redux 
 
 ## Необходимо разработать WEB - приложение, обеспечивающее следующие функции:
 - Показ пользователю в браузере (Firefox, Chrome последних версий) списка из 2-3 полей с возможностью сортировки и фильтрации.
@@ -12,14 +12,14 @@
 
 ## Запуск
 - Конфиг `/src/config.js`
-- Установка модулей `npm init` (node_modules)
+- Установка модулей `npm install` (node_modules)
 - Новый продакшен билд - `npm run build`
 - Запустить продакшен билд `npx serve -s build`
 - Запуск в режиме разработки - `npm start`
 
 ## Запуск сервера
 - Конфиг `/test-task-server/config.js`
-- Установка модулей `npm init` (node_modules)
+- Установка модулей `npm install` (node_modules)
 - Запустить сервер `cd test-task-server && npm start`
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
