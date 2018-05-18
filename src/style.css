@@ -1,0 +1,41 @@
+.App {
+  width: 450px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #eaeaea;
+}
+
+.App-list-filter {
+  margin: 0 0 10px 0;
+}
+
+.App-list-table-sorter {
+  border-bottom: 1px dotted;
+  cursor: pointer;
+  color: blue;
+  float: right;
+  user-select: none;
+}
+
+.App-list-table-sorter-disabled {
+  border-bottom: 1px dotted;
+  cursor: disabled;
+  color: gray;
+  float: right;
+  user-select: none;
+}
+
+.App-create-thing,
+.App-create-thing-back {
+  display: inline-block;
+  border-bottom: 1px dotted;
+  cursor: pointer;
+  color: blue;
+  margin: 0 0 20px 0;
+}
+
+.App-radial-btn {
+  border-radius: 50%;
+  height: 30px;
+  width: 30px;
+}
